@@ -1,42 +1,30 @@
-# Simulation de Caissier de Supermarché
+# Supermarket simulator
 
-Cette simulation est un programme console écrit en Python qui simule le fonctionnement d'un caissier dans un supermarché. Le programme permet de scanner des produits, calculer le total des achats et gérer les cartes de fidélité des clients.
+This simulation is a console program written in Python that simulates the operation of a cashier in a supermarket. The program allows scanning products, calculating the total of purchases, and managing customers' loyalty cards.
 
-## Auteur
+## Author
 
 Souhaila
 
-## Fonctionnalités
+## Features
 
-- **Gestion des clients** : Scanner les articles des clients.
-- **Calcul des totaux** : Calculer le sous-total et le total des achats.
-- **Fidélité** : Vérifier et appliquer les cartes de fidélité des clients.
-- **Stock** : Mettre à jour le stock des produits.
+- **Customer Management**: Scan customers' items.
+- **Total Calculation**: Calculate the subtotal and total of purchases.
+- **Loyalty**: Check and apply customers' loyalty cards.
+- **Stock**: Update the product stock.
 
-## Prérequis
+## Use
 
-- Python 3.x doit être installé sur votre machine. Vous pouvez le télécharger depuis [python.org](https://www.python.org/).
+- Clone this repository to your local machine by running the following command in your terminal: 
+git clone https://github.com/your-username/supermarket-cashier-simulation.git
 
-## Utilisation
+- Navigate to the project directory: cd supermarket-cashier-simulation
 
-1. Clonez ce dépôt sur votre machine locale :
-    ```bash
-    git clone https://github.com/votre-utilisateur/simulation-caissier-supermarche.git
-    ```
+- Run the main script using Python: python main.py
 
-2. Accédez au répertoire du projet :
-    ```bash
-    cd simulation-caissier-supermarche
-    ```
+- Follow the on-screen instructions to scan items and manage customers.
 
-3. Exécutez le script principal :
-    ```bash
-    python main.py
-    ```
-
-Suivez les instructions à l'écran pour scanner les articles et gérer les clients.
-
-## Exemple de Fonctionnement
+## Let's play
 
 ![image](https://github.com/Souhaila84/Supermarket_simulator/assets/92530859/f5ab3007-41b8-41c9-849d-51c1c243baf5)
 
